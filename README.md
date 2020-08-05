@@ -27,7 +27,6 @@
 |first_name_destination|string|null: false|
 |family_name_destination|string|null: false|
 |first_name_destination_kana|string|null: false|
-|family_name_destination_kana|string|null: false|
 |postcode|integer(7)|null: false|
 |prefecture|integer|null: false|
 |city|string|null: false, unique: true, index:true|
