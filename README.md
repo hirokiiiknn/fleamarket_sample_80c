@@ -53,7 +53,7 @@
 
 ### Association
 - belongs_to: user
-- gem: jp_prefectureを使用する。
+- gem: jp_prefectureを使用する
 
 ## itemsテーブル
 
@@ -78,7 +78,8 @@
 - has_many: images
 - belongs_to :seller, class_name: "User"
 - belongs_to :buyer, class_name: "User"
-- gem：jp_prefectureを使用する。
+- Gem：jp_prefectureを使用する
+- 
 
 ## brandテーブル
 
